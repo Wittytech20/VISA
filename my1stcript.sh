@@ -22,3 +22,4 @@ do
  echo "If you have not visited $state, then you’re missing"
 done
 echo "Visit them and thank me later."
+echo "Thank you."
