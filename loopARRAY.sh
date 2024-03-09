@@ -7,3 +7,4 @@ do
  # Perform some action with each item
  echo "If you have not visited $state, then you’re missing"
 done
+echo "I am just kidding"
